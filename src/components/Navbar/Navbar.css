@@ -1,0 +1,25 @@
+#navbar-body {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 78px;
+}
+
+#home-button {
+    margin: 10px;
+}
+
+#navbar-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#navbar-text a {
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    font-size: 28px;
+}
