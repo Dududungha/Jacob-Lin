@@ -4,25 +4,13 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom';
 
 import './index.css';
 import App from './App';
-import About from './pages/About/About';
-import Home from './pages/Home/Home';
-import Links from './pages/Links/Links';
-
 
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
-        <Routes>
-          <Route path="Jacob-Lin" element={<App />}>
-            <Route path="" element={<Home />}/>
-            <Route path="About" element={<About />}/>
-            <Route path="Links" element={<Links />}/>
-          </Route>
-        </Routes>
-      </BrowserRouter>
+      <App />
   </React.StrictMode>
 );
 
