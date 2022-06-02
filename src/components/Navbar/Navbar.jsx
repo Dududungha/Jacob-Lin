@@ -11,8 +11,10 @@ function Navbar() {
                 <Link to="/"><img src={home_button_pic} alt="Home" width="50" height="50"/></Link>
             </div>
             <nav id="navbar-text">
+                <Link to="Work">Work</Link>
+                <Link to="Extracurriculars">Extracurriculars</Link>
                 <Link to="About">About</Link>
-                <Link to="Links">Links</Link>
+                <Link to="Inspiration">Inspiration</Link>
             </nav>
         </div>
     )

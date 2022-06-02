@@ -3,20 +3,26 @@ import React from 'react';
 import Navbar from "./components/Navbar/Navbar";
 import { HashRouter, Routes, Route} from "react-router-dom";
 
-import About from './pages/About/About';
 import Home from './pages/Home/Home';
-import Links from './pages/Links/Links';
+import Work from './pages/Work/Work';
+import Extracurriculars from './pages/Extracurriculars/Extracurriculars';
+import About from './pages/About/About';
+import Inspiration from './pages/Inspiration/Inspiration';
 
 function App() {
   return (
-    <HashRouter basename="/">
-      <Navbar />
-      <Routes>
-        <Route path="" element={<Home />}/>
-        <Route path="About" element={<About />}/>
-        <Route path="Links" element={<Links />}/>
-      </Routes>
-    </HashRouter>
+    <div id="App">
+      <HashRouter basename="/">
+        <Navbar />
+        <Routes>
+          <Route path="" element={<Home />}/>
+          <Route path="Work" element={<Work />}/>
+          <Route path="Extracurriculars" element={<Extracurriculars />}/>
+          <Route path="About" element={<About />}/>
+          <Route path="Inspiration" element={<Inspiration />}/>
+        </Routes>
+      </HashRouter>
+    </div>
   );
 }
 
