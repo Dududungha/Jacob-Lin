@@ -2,7 +2,7 @@
 
 function Inspiration() {
     return (
-        <div>
+        <div className="page-body">
             <div>
                 <div>
                     <h2><a href="https://www.healthygamer.gg/" target="_blank" rel="noreferrer">Healthy Gamer</a></h2>

@@ -1,3 +1,11 @@
 #App {
   font-family: "Montserrat", sans-serif;
 }
+
+.page-body {
+  margin: 50px 100px
+}
+
+.resume-item {
+  font-size: large
+}

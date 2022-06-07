@@ -2,7 +2,7 @@
 
 function Extracurriculars() {
     return (
-        <div>
+        <div className="page-body">
             <div>
                 <h2><a href="https://acmucsd.com" target="_blank" rel="noreferrer">ACM at UCSD VP Membership</a></h2>
                 <ul>

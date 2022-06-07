@@ -2,7 +2,7 @@
 
 function Projects() {
     return (
-        <div>
+        <div className="page-body">
             <div>
                 <h2> <a href="https://uwu-wegistew.netlify.app/" target="_blank" rel="noreferrer">uwu-wegistew</a></h2>
                 <ul>
