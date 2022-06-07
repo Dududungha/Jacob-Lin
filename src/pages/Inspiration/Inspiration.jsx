@@ -2,7 +2,7 @@
 
 function Inspiration() {
     return (
-        <div>
+        <div className="page-body">
             <div>
                 <h2>Sword Art Online</h2>
                 <h2>Healthy Gamer</h2>
