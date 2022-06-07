@@ -12,6 +12,7 @@ function Navbar() {
             </div>
             <nav id="navbar-text">
                 <Link to="Work">Work</Link>
+                <Link to="Projects">Projects</Link>
                 <Link to="Extracurriculars">Extracurriculars</Link>
                 <Link to="About">About</Link>
                 <Link to="Inspiration">Inspiration</Link>
