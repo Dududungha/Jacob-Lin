@@ -17,9 +17,18 @@
     justify-content: space-around;
 }
 
+/* 
+#navbar-text div {
+    border-top: 3px solid white;
+    margin: 0px 12px;
+    height: 78px;
+    display: flex;
+    align-items: center;
+} */
+
 #navbar-text a {
     color: white;
     text-decoration: none;
-    padding: 12px;
     font-size: 28px;
+    padding: 12px;
 }

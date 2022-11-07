@@ -4,22 +4,21 @@ function Extracurriculars() {
     return (
         <div className="page-body">
             <div>
-                <h2><a href="https://acmucsd.com" target="_blank" rel="noreferrer">ACM at UCSD VP Membership</a></h2>
+                <h1><a href="https://acmucsd.com" target="_blank" rel="noreferrer">ACM at UCSD</a></h1>
+                <h2>VP Membership</h2>
                 <ul>
                     <li>Helped change the organization to be more diverse and inclusive by implementing workshops and social events for members to learn about their peers’ unique backgrounds and how to communicate with that in mind</li>
                     <li>Lead the membership team of 6 to organize 30+ social events throughout the year where ACM’s 2000+ members can feel welcome and included</li>
                 </ul>
-                <p>The Association for Computing Machinery at UCSD is a student organization founded by <a href="https://www.linkedin.com/in/emilyhuongnguyen/" target="_blank" rel="noreferrer">Emily Nguyen</a> with a focus on creating a members first community for anyone interested in computing. I joined ACM in 2020 precisely because of this wonderful community and my experience here has greatly shaped my college career. I have had the privilege of being a part of the Membership Team as the bit-byte director for the 2021-2022 school year, and will be continuing in the team as the Vice President of Membership for the 2022-2023 school year!</p>
-            </div>
-            <div>
-                <h2><a href="https://acmucsd.com" target="_blank" rel="noreferrer">ACM at UCSD Bit-Byte Director</a></h2>
+                <h2>Bit-Byte Director</h2>
                 <ul>
                     <li>Directed a mentee-mentor program with 100+ participants that helped students create a network and build lasting connections even through the pandemic</li>
                     <li>Hosted and documented 14+ engaging socials, growing and familiarizing the ACM community</li>
                 </ul>
+                <p>The Association for Computing Machinery at UCSD is a student organization founded by <a href="https://www.linkedin.com/in/emilyhuongnguyen/" target="_blank" rel="noreferrer">Emily Nguyen</a> with a focus on creating a members first community for anyone interested in computing. I joined ACM in 2020 precisely because of this wonderful community and my experience here has greatly shaped my college career. I have had the privilege of being a part of the Membership Team as the bit-byte director for the 2021-2022 school year, and will be continuing in the team as the Vice President of Membership for the 2022-2023 school year!</p>
             </div>
             <div>
-                <h2><a href="http://tchsguidancedepartment.weebly.com/peer-listeners.html" target="_blank" rel="noreferrer">Peer Listeners</a></h2>
+                <h1><a href="http://tchsguidancedepartment.weebly.com/peer-listeners.html" target="_blank" rel="noreferrer">Peer Listeners</a></h1>
                 <ul>
                     <li>Selected out of 300 applicants to be trained in important communication skills such as active listening, mediation, and body language</li>
                     <li>Practiced communication in group sessions of 10 - 20 peers to discuss and improve mental health</li>

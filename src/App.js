@@ -15,14 +15,16 @@ function App() {
     <div id="App">
       <HashRouter basename="/">
         <Navbar />
-        <Routes>
-          <Route path="" element={<Home />}/>
-          <Route path="Work" element={<Work />}/>
-          <Route path="Projects" element={<Projects />}/>
-          <Route path="Extracurriculars" element={<Extracurriculars />}/>
-          <Route path="About" element={<About />}/>
-          <Route path="Inspiration" element={<Inspiration />}/>
-        </Routes>
+        <div id="body">
+          <Routes>
+            <Route path="" element={<Home />}/>
+            <Route path="Work" element={<Work />}/>
+            <Route path="Projects" element={<Projects />}/>
+            <Route path="Extracurriculars" element={<Extracurriculars />}/>
+            <Route path="About" element={<About />}/>
+            <Route path="Inspiration" element={<Inspiration />}/>
+          </Routes>
+        </div>
       </HashRouter>
     </div>
   );
