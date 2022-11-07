@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Jacob-Lin/static/css/main.24d23052.css",
+    "main.js": "/Jacob-Lin/static/js/main.01f810ab.js",
+    "static/js/787.6bdea9f1.chunk.js": "/Jacob-Lin/static/js/787.6bdea9f1.chunk.js",
+    "static/media/step_jl.jpg": "/Jacob-Lin/static/media/step_jl.0bc8f5c5a194493dceb5.jpg",
+    "static/media/tako_jl.jpg": "/Jacob-Lin/static/media/tako_jl.3ffeb23b7c25fdac4f09.jpg",
+    "static/media/michael_reeves_jl.jpg": "/Jacob-Lin/static/media/michael_reeves_jl.6d909b9cce0c48b69c9e.jpg",
+    "static/media/Jacob_Lin_Resume.pdf": "/Jacob-Lin/static/media/Jacob_Lin_Resume.d972e59f696548428f5d.pdf",
+    "static/media/home_button_pic.png": "/Jacob-Lin/static/media/home_button_pic.0a79062384283b21047e.png",
+    "index.html": "/Jacob-Lin/index.html",
+    "main.24d23052.css.map": "/Jacob-Lin/static/css/main.24d23052.css.map",
+    "main.01f810ab.js.map": "/Jacob-Lin/static/js/main.01f810ab.js.map",
+    "787.6bdea9f1.chunk.js.map": "/Jacob-Lin/static/js/787.6bdea9f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d23052.css",
+    "static/js/main.01f810ab.js"
+  ]
+}
